@@ -11,42 +11,42 @@ const loadedMeals = [
   },
   {
     "id": "m2",
-    "name": "Margherita Pizza",
+    "name": "RAHUL BAROT",
     "price": "12.99",
     "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
     "image": "images/margherita-pizza.jpg"
   },
   {
     "id": "m3",
-    "name": "Caesar Salad",
+    "name": "RAHUL BAROT",
     "price": "7.99",
     "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
     "image": "images/caesar-salad.jpg"
   },
   {
     "id": "m4",
-    "name": "Spaghetti Carbonara",
+    "name": "RAHUL BAROT",
     "price": "10.99",
     "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
     "image": "images/spaghetti-carbonara.jpg"
   },
   {
     "id": "m5",
-    "name": "Veggie Burger",
+    "name": "RAHUL BAROT",
     "price": "9.99",
     "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
     "image": "images/veggie-burger.jpg"
   },
   {
     "id": "m6",
-    "name": "Grilled Chicken Sandwich",
+    "name": "Grilled PASTA SANDWHICH",
     "price": "10.99",
     "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
     "image": "images/grilled-chicken-sandwich.jpg"
   },
   {
     "id": "m7",
-    "name": "Steak Frites",
+    "name": "RAHUL BAROT",
     "price": "17.99",
     "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
     "image": "images/steak-frites.jpg"
@@ -60,21 +60,21 @@ const loadedMeals = [
   },
   {
     "id": "m9",
-    "name": "Chicken Curry",
+    "name": "DAL TADKA Curry",
     "price": "13.99",
     "description": "Tender pieces of chicken simmered in a rich and aromatic curry sauce, served with basmati rice.",
     "image": "images/chicken-curry.jpg"
   },
   {
     "id": "m10",
-    "name": "Vegan Buddha Bowl",
+    "name": "BHAJI PULAV Bowl",
     "price": "11.99",
     "description": "A hearty bowl filled with quinoa, roasted veggies, avocado, and a tahini dressing.",
     "image": "images/vegan-buddha-bowl.jpg"
   },
   {
     "id": "m11",
-    "name": "Seafood Paella",
+    "name": "SeRAHUL BAROT",
     "price": "19.99",
     "description": "A Spanish delicacy filled with saffron-infused rice, shrimp, mussels, and chorizo.",
     "image": "images/seafood-paella.jpg"
